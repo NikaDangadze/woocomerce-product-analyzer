@@ -1,2 +1,2 @@
 # woocomerce-product-analyzer
-პროდუქტის ანალიტიკა WooCommerce-თვის — დამატებითი ღილაკი პროდუქტის სიაში.
+Product Analytics for WooCommerce — additional button in the product list.
