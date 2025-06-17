@@ -1,0 +1,49 @@
+.product-field-filled {
+    color: green;
+    font-weight: 500;
+}
+
+.product-field-unfilled {
+    color: #d63638;
+    font-weight: 500;
+}
+
+#product-analyzer-logo {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 100px;
+    opacity: 0.8;
+}
+
+#product-analyzer-popup {
+    display: none;
+    position: fixed;
+    top: 20%;
+    left: 30%;
+    width: 40%;
+    background: #fff;
+    border: 2px solid #020202;
+    padding: 20px;
+    z-index: 9999;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+#product-analyzer-popup-close {
+    float: right;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 31px;
+    padding: 10px 10px 12px 10px;
+    color: #fbdd58;
+    background: #000000;
+    border-radius: 22px;
+}
+
+#product-analyzer-popup img {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
